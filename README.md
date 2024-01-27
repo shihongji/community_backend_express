@@ -11,4 +11,10 @@ Server for HackersClub Silicon Valley website
 - `npm -i`
 - `npm run start` to start server 
 - or `npm run server` if you have nodemon installed globally
+- Config the `.env`
+    - PORT
+    - DB_URI
+    - JWT (SECRET and REFRESH_SECRET)
+    - CLOUDINARY
+    - NODEMAILER
 
